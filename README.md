@@ -1,6 +1,6 @@
 - Oi meu nome é Cleber Pereira
 - Meu maior interesse é no desenvolvimento de aplicações web
-- Atualmente estou estudando Back-end(NodeJS, MongoDB)
+- Atualmente estou estudando Back-end(NodeJS)
 - Pretendo usar o github como portfólio e organização de projetos pessoais
 - Linkedin : https://www.linkedin.com/in/cleber-pereira-9a5384235/
 
